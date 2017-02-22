@@ -1,0 +1,7 @@
+[DB-config]
+username = ""
+password = ""
+connect_url = ""
+
+[session-config]
+session_key = ""
